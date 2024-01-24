@@ -31,6 +31,7 @@ function App() {
                           STUDY / WORK
                       </div>
                     </div> 
+                    
                   </div>
               </div>
           </div>
